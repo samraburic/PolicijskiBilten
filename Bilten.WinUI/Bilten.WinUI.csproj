@@ -1,0 +1,840 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD017788-A750-4620-9D72-E614B1F77ACA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Bilten.WinUI</RootNamespace>
+    <AssemblyName>Bilten.WinUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV, Version=2.2.1.1150, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Reference\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.GPU, Version=2.2.1.1150, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Reference\Emgu.CV.GPU.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.ML, Version=2.2.1.1150, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Reference\Emgu.CV.ML.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI, Version=2.2.1.1150, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Reference\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.Util, Version=2.2.1.1150, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Reference\Emgu.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Flurl, Version=2.8.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Flurl.2.8.2\lib\net40\Flurl.dll</HintPath>
+    </Reference>
+    <Reference Include="Flurl.Http, Version=2.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Flurl.Http.2.4.2\lib\net46\Flurl.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.Core, Version=1.9.9.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.Core.1.9.9.5\lib\net40\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.9.9.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WinForms.1.9.9.5\lib\net40\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsPresentation, Version=1.9.9.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WinPresentation.1.9.9.5\lib\net40\GMap.NET.WindowsPresentation.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.1\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Logging, Version=1.1.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Logging.1.1.2\lib\net451\Microsoft.IdentityModel.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens, Version=5.1.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Tokens.5.1.2\lib\net451\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=105.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.105.1.0\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.112.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.112.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.112.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IdentityModel.Tokens.Jwt, Version=5.1.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IdentityModel.Tokens.Jwt.5.1.2\lib\net451\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TextmagicRest, Version=1.0.0.5, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TextmagicRest.1.0.0.5\lib\net45\TextmagicRest.dll</HintPath>
+    </Reference>
+    <Reference Include="Twilio, Version=5.38.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Twilio.5.38.0\lib\net451\Twilio.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="APIService.cs" />
+    <Compile Include="CustomControl\AppConfig.cs" />
+    <Compile Include="CustomControl\DogadjajiCustomControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomControl\DogadjajiCustomControl.Designer.cs">
+      <DependentUpon>DogadjajiCustomControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControl\HomeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomControl\HomeControl.Designer.cs">
+      <DependentUpon>HomeControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControl\MjereCustomControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomControl\MjereCustomControl.Designer.cs">
+      <DependentUpon>MjereCustomControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControl\VrsteCustomControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomControl\VrsteCustomControl.Designer.cs">
+      <DependentUpon>VrsteCustomControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaKontrolor\frmKontrolorIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaKontrolor\frmKontrolorIndex.Designer.cs">
+      <DependentUpon>frmKontrolorIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaKontrolor\frmSviDogadjaji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaKontrolor\frmSviDogadjaji.Designer.cs">
+      <DependentUpon>frmSviDogadjaji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaKontrolor\frmZvanicniBilten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaKontrolor\frmZvanicniBilten.Designer.cs">
+      <DependentUpon>frmZvanicniBilten.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaOperater\frmOperaterIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaOperater\frmOperaterIndex.Designer.cs">
+      <DependentUpon>frmOperaterIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaPolicajac\frmPolicajacIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaPolicajac\frmPolicajacIndex.Designer.cs">
+      <DependentUpon>frmPolicajacIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodajDogadjaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodajDogadjaj.Designer.cs">
+      <DependentUpon>frmDodajDogadjaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodajDogadjajVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodajDogadjajVideo.Designer.cs">
+      <DependentUpon>frmDodajDogadjajVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodajKategoriju.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodajKategoriju.Designer.cs">
+      <DependentUpon>frmDodajKategoriju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodajMjeru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodajMjeru.Designer.cs">
+      <DependentUpon>frmDodajMjeru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodajOrganizacionuJedinicu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodajOrganizacionuJedinicu.Designer.cs">
+      <DependentUpon>frmDodajOrganizacionuJedinicu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodajOsobu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodajOsobu.Designer.cs">
+      <DependentUpon>frmDodajOsobu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodajPodorganizacionuJedinicu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodajPodorganizacionuJedinicu.Designer.cs">
+      <DependentUpon>frmDodajPodorganizacionuJedinicu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodajSlikeDogadjaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodajSlikeDogadjaj.Designer.cs">
+      <DependentUpon>frmDodajSlikeDogadjaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodajVozilo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodajVozilo.Designer.cs">
+      <DependentUpon>frmDodajVozilo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDodajVrstu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDodajVrstu.Designer.cs">
+      <DependentUpon>frmDodajVrstu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDogadjaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDogadjaj.Designer.cs">
+      <DependentUpon>frmDogadjaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDogadjajDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDogadjajDetalji.Designer.cs">
+      <DependentUpon>frmDogadjajDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDogadjajDetaljiKriminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDogadjajDetaljiKriminal.Designer.cs">
+      <DependentUpon>frmDogadjajDetaljiKriminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDogadjajiDetaljiSaobracaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDogadjajiDetaljiSaobracaj.Designer.cs">
+      <DependentUpon>frmDogadjajiDetaljiSaobracaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDogadjajDodajMjere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDogadjajDodajMjere.Designer.cs">
+      <DependentUpon>frmDogadjajDodajMjere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDogadjajVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDogadjajVideo.Designer.cs">
+      <DependentUpon>frmDogadjajVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFaceDetectionRecognition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFaceDetectionRecognition.Designer.cs">
+      <DependentUpon>frmFaceDetectionRecognition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGoogleMapaDogadjaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGoogleMapaDogadjaja.Designer.cs">
+      <DependentUpon>frmGoogleMapaDogadjaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKategorije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKategorije.Designer.cs">
+      <DependentUpon>frmKategorije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIndex.Designer.cs">
+      <DependentUpon>frmIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKategorijeDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKategorijeDetalji.Designer.cs">
+      <DependentUpon>frmKategorijeDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMjeraDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMjeraDetalji.Designer.cs">
+      <DependentUpon>frmMjeraDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMjere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMjere.Designer.cs">
+      <DependentUpon>frmMjere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrganizacionaJedinica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrganizacionaJedinica.Designer.cs">
+      <DependentUpon>frmOrganizacionaJedinica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrganizacionaJedinicaDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrganizacionaJedinicaDetalji.Designer.cs">
+      <DependentUpon>frmOrganizacionaJedinicaDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOsobaDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOsobaDetalji.Designer.cs">
+      <DependentUpon>frmOsobaDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOsobe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOsobe.Designer.cs">
+      <DependentUpon>frmOsobe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOsobeDogadjajDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOsobeDogadjajDetalji.Designer.cs">
+      <DependentUpon>frmOsobeDogadjajDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOsobeSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOsobeSearch.Designer.cs">
+      <DependentUpon>frmOsobeSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPodorganizacionaJedinica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPodorganizacionaJedinica.Designer.cs">
+      <DependentUpon>frmPodorganizacionaJedinica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPodorganizacionaJedinicaDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPodorganizacionaJedinicaDetalji.Designer.cs">
+      <DependentUpon>frmPodorganizacionaJedinicaDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVideoStream.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVideoStream.Designer.cs">
+      <DependentUpon>frmVideoStream.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVozila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVozila.Designer.cs">
+      <DependentUpon>frmVozila.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVozilaDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVozilaDetalji.Designer.cs">
+      <DependentUpon>frmVozilaDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVozilaSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVozilaSearch.Designer.cs">
+      <DependentUpon>frmVozilaSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVrsteDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVrsteDetalji.Designer.cs">
+      <DependentUpon>frmVrsteDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Korisnici\frmDodajKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Korisnici\frmDodajKorisnika.Designer.cs">
+      <DependentUpon>frmDodajKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\MainForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\MainForma.Designer.cs">
+      <DependentUpon>MainForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NovaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NovaForma.Designer.cs">
+      <DependentUpon>NovaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OsobaUspertRequest.cs" />
+    <Compile Include="PregledDogađaja\frmDogadjajiKriminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PregledDogađaja\frmDogadjajiKriminal.Designer.cs">
+      <DependentUpon>frmDogadjajiKriminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PregledDogađaja\frmDogadjajiNJRIM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PregledDogađaja\frmDogadjajiNJRIM.Designer.cs">
+      <DependentUpon>frmDogadjajiNJRIM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PregledDogađaja\frmDogadjajiSaobracaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PregledDogađaja\frmDogadjajiSaobracaj.Designer.cs">
+      <DependentUpon>frmDogadjajiSaobracaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmVrste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVrste.Designer.cs">
+      <DependentUpon>frmVrste.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CustomControl\DogadjajiCustomControl.resx">
+      <DependentUpon>DogadjajiCustomControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomControl\HomeControl.resx">
+      <DependentUpon>HomeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomControl\MjereCustomControl.resx">
+      <DependentUpon>MjereCustomControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomControl\VrsteCustomControl.resx">
+      <DependentUpon>VrsteCustomControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaKontrolor\frmKontrolorIndex.resx">
+      <DependentUpon>frmKontrolorIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaKontrolor\frmSviDogadjaji.resx">
+      <DependentUpon>frmSviDogadjaji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaKontrolor\frmZvanicniBilten.resx">
+      <DependentUpon>frmZvanicniBilten.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaOperater\frmOperaterIndex.resx">
+      <DependentUpon>frmOperaterIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaPolicajac\frmPolicajacIndex.resx">
+      <DependentUpon>frmPolicajacIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodajDogadjaj.resx">
+      <DependentUpon>frmDodajDogadjaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodajDogadjajVideo.resx">
+      <DependentUpon>frmDodajDogadjajVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodajKategoriju.resx">
+      <DependentUpon>frmDodajKategoriju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodajMjeru.resx">
+      <DependentUpon>frmDodajMjeru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodajOrganizacionuJedinicu.resx">
+      <DependentUpon>frmDodajOrganizacionuJedinicu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodajOsobu.resx">
+      <DependentUpon>frmDodajOsobu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodajPodorganizacionuJedinicu.resx">
+      <DependentUpon>frmDodajPodorganizacionuJedinicu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodajSlikeDogadjaj.resx">
+      <DependentUpon>frmDodajSlikeDogadjaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodajVozilo.resx">
+      <DependentUpon>frmDodajVozilo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDodajVrstu.resx">
+      <DependentUpon>frmDodajVrstu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDogadjaj.resx">
+      <DependentUpon>frmDogadjaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDogadjajDetalji.resx">
+      <DependentUpon>frmDogadjajDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDogadjajDetaljiKriminal.resx">
+      <DependentUpon>frmDogadjajDetaljiKriminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDogadjajiDetaljiSaobracaj.resx">
+      <DependentUpon>frmDogadjajiDetaljiSaobracaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDogadjajDodajMjere.resx">
+      <DependentUpon>frmDogadjajDodajMjere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDogadjajVideo.resx">
+      <DependentUpon>frmDogadjajVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFaceDetectionRecognition.resx">
+      <DependentUpon>frmFaceDetectionRecognition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGoogleMapaDogadjaja.resx">
+      <DependentUpon>frmGoogleMapaDogadjaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKategorije.resx">
+      <DependentUpon>frmKategorije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIndex.resx">
+      <DependentUpon>frmIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKategorijeDetalji.resx">
+      <DependentUpon>frmKategorijeDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMjeraDetalji.resx">
+      <DependentUpon>frmMjeraDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMjere.resx">
+      <DependentUpon>frmMjere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrganizacionaJedinica.resx">
+      <DependentUpon>frmOrganizacionaJedinica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrganizacionaJedinicaDetalji.resx">
+      <DependentUpon>frmOrganizacionaJedinicaDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOsobaDetalji.resx">
+      <DependentUpon>frmOsobaDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOsobe.resx">
+      <DependentUpon>frmOsobe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOsobeSearch.resx">
+      <DependentUpon>frmOsobeSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPodorganizacionaJedinica.resx">
+      <DependentUpon>frmPodorganizacionaJedinica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPodorganizacionaJedinicaDetalji.resx">
+      <DependentUpon>frmPodorganizacionaJedinicaDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVideoStream.resx">
+      <DependentUpon>frmVideoStream.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVozila.resx">
+      <DependentUpon>frmVozila.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVozilaDetalji.resx">
+      <DependentUpon>frmVozilaDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVozilaSearch.resx">
+      <DependentUpon>frmVozilaSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVrsteDetalji.resx">
+      <DependentUpon>frmVrsteDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnici\frmDodajKorisnika.resx">
+      <DependentUpon>frmDodajKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\MainForma.resx">
+      <DependentUpon>MainForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NovaForma.resx">
+      <DependentUpon>NovaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PregledDogađaja\frmDogadjajiKriminal.resx">
+      <DependentUpon>frmDogadjajiKriminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PregledDogađaja\frmDogadjajiNJRIM.resx">
+      <DependentUpon>frmDogadjajiNJRIM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PregledDogađaja\frmDogadjajiSaobracaj.resx">
+      <DependentUpon>frmDogadjajiSaobracaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVrste.resx">
+      <DependentUpon>frmVrste.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bilten.Model\Bilten.Model.csproj">
+      <Project>{9304ecb8-289c-487f-9e98-89dd8a89d6dc}</Project>
+      <Name>Bilten.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quit %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\873x400.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\specijalna-policija-2017.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sgsgsg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crime-scene-png-hd-police-tape-png-1600.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\police-car-png-background-image-png-arts-police-car-png-transparent-background-450_340.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\handcuffs-transparent-png-clip-art-gallery-yopriceville-high-quality-images-and-transparent-33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XpmFIAVa_vozni_park_policija_hnz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\72619.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\190704086.6_xl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bekgraund.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1582310-luxury-car-hire-luxury-car-png-480_200_preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\police-badge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bio-formats-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\birthday-and-party %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vrste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrestling-bell-png-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\122.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10033108_g_23743593_ver1-0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\policija-usa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1000_1526637257policija-hnk-migranti-transport-ivan-dva-18052018-20180518102206_0J4A9611-MZ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\police39.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\policija-1-1024x635.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Google-map-and-location.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-and-blue-stop-sign-nicaragua-google-maps-navigation-map-icon-png-clip-art.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google-map-1772225-1507809.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2018-audi-s6-2018-audi-a6-car-2017-audi-a6-png-favpng-UzQqVNSrLWDwFAYwQELuywupf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2018-audi-a6-premium-20-tfsi-32-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\police-car-hd-png--450.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\worldwide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google-maps.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth-globe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\success.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy-of-NEW-WEB-HEAD-TEMPLATE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdf %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="haarcascade_frontalface_alt_tree.xml" />
+    <Content Include="haarcascade_frontalface_default.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.112.0\build\net46\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.112.0\build\net46\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.112.0\build\net46\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.112.0\build\net46\System.Data.SQLite.Core.targets')" />
+</Project>

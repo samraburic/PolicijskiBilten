@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Bilten.MobileApp.ViewModels.Dogadjaj"
+             mc:Ignorable="d"
+             x:Class="Bilten.MobileApp.Views.Dogadjaj.DogadjajDetaljiPage">
+    <ContentPage.BindingContext>
+        <viewModels:DogadjajDetaljiViewModel></viewModels:DogadjajDetaljiViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="10" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+                <Label Padding="10,10,30,10" FontSize="24" FontAttributes="Bold" Text="Informacije o događaju"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+                <Button Clicked="Button_Clicked_3" Text="Back" WidthRequest="50" 
+            HorizontalOptions="Start" BackgroundColor="LightBlue"></Button>
+
+                <Label Text="Vrsta događaja:" FontAttributes="Bold, Italic" FontSize="Micro"></Label>
+                <Entry Text="{Binding Dogadjaj.Vrste.Naziv}" ></Entry>
+
+                <Label Text="Mjesto događaja:" FontAttributes="Bold, Italic" FontSize="Micro"></Label>
+                <Entry Text="{Binding Dogadjaj.MjestoDogadjaja}" IsReadOnly="True"></Entry>
+
+                <Label Text="Datum događaja:" FontAttributes="Bold, Italic" FontSize="Micro"></Label>
+                <Entry Text="{Binding Dogadjaj.DatumDogadjaja}" IsReadOnly="True"></Entry>
+
+                <Label Text="Datum prijave:" FontAttributes="Bold, Italic" FontSize="Micro"></Label>
+                <Entry Text="{Binding Dogadjaj.DatumPrijave}" IsReadOnly="True"></Entry>
+
+                <Label Text="Kratki opis:" FontAttributes="Bold, Italic" FontSize="Micro"></Label>
+                <Entry Text="{Binding Dogadjaj.Opis}" IsReadOnly="True"></Entry>
+
+
+                <Button Padding="5" Text="Lokacija događaja" Clicked="Button_Clicked_2" BackgroundColor="Gold"></Button>
+
+                <StackLayout BackgroundColor="LightSkyBlue" Padding="10" HeightRequest="200">
+                    <Label Text="Poduzete mjere:" FontAttributes="Bold" FontSize="Medium"></Label>
+                    <ListView ItemsSource="{Binding DogadjajMjereList}" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Padding="10">
+                                        <Label Text="{Binding Opis}" 
+                                       LineBreakMode="MiddleTruncation" 
+                                       Style="{DynamicResource ListItemTextStyle}" 
+                                       FontSize="16" />
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                    <Button Text="Dodaj mjere" Clicked="Button_Clicked_1"></Button>
+
+                </StackLayout>
+
+                <StackLayout BackgroundColor="LightGreen" Padding="10" HeightRequest="200">
+                    <Label Text="Vozila koja su učestvovala:" FontAttributes="Bold" FontSize="Medium"></Label>
+                    <ListView ItemsSource="{Binding DogadjajVozilaList}" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Padding="10">
+                                        <Label Text="{Binding Marka}" 
+                                       LineBreakMode="MiddleTruncation" 
+                                       Style="{DynamicResource ListItemTextStyle}" 
+                                       FontSize="16" />
+                                        <Label Text="{Binding Model}" 
+                                       LineBreakMode="MiddleTruncation" 
+                                       Style="{DynamicResource ListItemTextStyle}" 
+                                       FontSize="16" />
+                                        <Label Text="{Binding BrRegOznake}" 
+                                       LineBreakMode="MiddleTruncation" 
+                                       Style="{DynamicResource ListItemTextStyle}" 
+                                       FontSize="16" />
+
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+
+                    <Button Text="Dodaj vozilo" Clicked="Button_Clicked"></Button>
+
+
+                </StackLayout>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
+

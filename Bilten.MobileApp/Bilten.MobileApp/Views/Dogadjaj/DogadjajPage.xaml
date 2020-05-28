@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Bilten.MobileApp.ViewModels.Dogadjaj"
+             mc:Ignorable="d"
+             x:Class="Bilten.MobileApp.Views.Dogadjaj.DogadjajPage">
+    <ContentPage.BindingContext>
+        <viewModels:DogadjajViewModel></viewModels:DogadjajViewModel>
+    </ContentPage.BindingContext> 
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Svi prijavljeni događaji"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   FontSize="Header"/>
+
+              
+            <Label Text="Pretraga po datumu" FontSize="Micro" Padding="15"></Label>
+            <DatePicker Date="{Binding DatumPretraga}" BackgroundColor="AliceBlue" ></DatePicker>
+
+            <ListView  ItemsSource="{Binding DogadjajList}" ItemSelected="ListView_OnItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10">
+                                <Label Text="Vrsta događaja:" FontSize="12" FontAttributes="Bold"></Label>
+                                <Label Text="{Binding Vrste.Naziv}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Label Text="Datum događaja:" FontSize="12" FontAttributes="Bold"></Label>
+                                <Label Text="{Binding DatumDogadjaja}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+
+                                <Label Text="Mjesto događaja:" FontSize="12" FontAttributes="Bold"></Label>
+                                <Label Text="{Binding MjestoDogadjaja}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Label Text="Prijavitelj:" FontSize="12" FontAttributes="Bold"></Label>
+                                <Label Text="{Binding Prijavitelj}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Label Text="Kratki opis:" FontSize="12" FontAttributes="Bold"></Label>
+                                <Label Text="{Binding Opis}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Label Text="_____________________________________________________________________________"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

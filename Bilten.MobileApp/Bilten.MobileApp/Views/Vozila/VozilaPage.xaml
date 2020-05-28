@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Bilten.MobileApp.ViewModels.Vozila"
+             mc:Ignorable="d"
+             x:Class="Bilten.MobileApp.Views.Vozila.VozilaPage">
+    <ContentPage.BindingContext>
+        <viewModels:VozilaViewModel></viewModels:VozilaViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Image WidthRequest="300" HeightRequest="150" Source="auta.png"></Image>
+            <Label Text="Registar vozila"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   FontAttributes="Bold"/>
+
+            <Entry Placeholder="Pretraga po br. reg. oznake"
+                   Text="{Binding SearchTerm}"></Entry>
+
+            <ListView ItemsSource="{Binding VozilaList}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10">
+                                <Label FontAttributes="Bold" FontSize="16" VerticalOptions="Center" HorizontalOptions="Center">Marka</Label>
+                                <Label Text="{Binding Marka}" 
+                                       VerticalOptions="CenterAndExpand" 
+                                       HorizontalOptions="CenterAndExpand"
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Label FontAttributes="Bold" FontSize="16" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">Model</Label>
+                                <Label Text="{Binding Model}" 
+                                       VerticalOptions="CenterAndExpand"
+                                       HorizontalOptions="CenterAndExpand" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Label FontAttributes="Bold" FontSize="16" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">Broj registarske oznake</Label>
+                                <Label Text="{Binding BrRegOznake}" 
+                                       VerticalOptions="CenterAndExpand"
+                                       HorizontalOptions="CenterAndExpand"
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Label Text="__________________________________________________________________________________"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,146 @@
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.deps.json
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.json
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.dev.json
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cache
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cs
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfo.cs
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.dll
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.pdb
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CopyComplete
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Benjamin\source\repos\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.deps.json
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.json
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.dev.json
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csprojAssemblyReference.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cs
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfoInputs.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfo.cs
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CopyComplete
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.deps.json
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.json
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.dev.json
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.pdb
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cache
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cs
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfo.cs
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CopyComplete
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.deps.json
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.json
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.dev.json
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csprojAssemblyReference.cache
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cache
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cs
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfoInputs.cache
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfo.cs
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CopyComplete
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Samra\Desktop\rs2_bilten\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.deps.json
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.json
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.dev.json
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csprojAssemblyReference.cache
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cache
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cs
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfoInputs.cache
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfo.cs
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CopyComplete
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Samra\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.deps.json
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.json
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.dev.json
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.pdb
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csprojAssemblyReference.cache
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CopyComplete
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.deps.json
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.json
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.dll
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.pdb
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CopyComplete
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Admin\Desktop\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.deps.json
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.json
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\BiltenWebAPI.pdb
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\bin\Debug\netcoreapp2.2\Bilten.Model.pdb
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.csproj.CopyComplete
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\BiltenWebAPI\obj\Debug\netcoreapp2.2\BiltenWebAPI.pdb

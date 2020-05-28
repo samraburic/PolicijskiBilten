@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Bilten.MobileApp.ViewModels.Vozila"
+             mc:Ignorable="d"
+             x:Class="Bilten.MobileApp.Views.Vozila.DodajVoziloPage">
+    <ContentPage.BindingContext>
+        <viewModels:DodajVoziloViewModel></viewModels:DodajVoziloViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+
+            <Image WidthRequest="300" HeightRequest="150" Source="auta.png"></Image>
+            <Label Text="Dodaj vozilo na događaj" FontSize="Medium"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   FontAttributes="Bold"/>
+
+            <Button Clicked="Button_Clicked_1" Text="back" WidthRequest="50" 
+            HorizontalOptions="Start" BackgroundColor="SteelBlue" TextColor="White"></Button>
+            <Entry Placeholder="Pretraga po br. reg. oznake"
+                   Text="{Binding SearchTerm}" Margin="10,20,10,20" ></Entry>
+
+            <ListView ItemsSource="{Binding VozilaList}" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10">
+                                <Label FontAttributes="Bold" FontSize="16">Marka</Label>
+                                <Label Text="{Binding Marka}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Label FontAttributes="Bold" FontSize="16">Model</Label>
+                                <Label Text="{Binding Model}" 
+                                       LineBreakMode="NoWrap" 
+                                       Style="{DynamicResource ListItemTextStyle}" 
+                                       FontSize="14" />
+                                <Label FontAttributes="Bold" FontSize="16">Broj registarske oznake</Label>
+                                <Label Text="{Binding BrRegOznake}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Button Text="Dodaj vozilo" Clicked="Button_Clicked"></Button>
+                                <Label Text="_______________________________________________"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

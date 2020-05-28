@@ -1,0 +1,87 @@
+C:\Users\Benjamin\source\repos\Bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.deps.json
+C:\Users\Benjamin\source\repos\Bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Benjamin\source\repos\Bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Benjamin\source\repos\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\repos\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfo.cs
+C:\Users\Benjamin\source\repos\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Benjamin\source\repos\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Benjamin\source\repos\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csprojAssemblyReference.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.deps.json
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csprojAssemblyReference.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csproj.CoreCompileInputs.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfoInputs.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfo.cs
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.deps.json
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfo.cs
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.deps.json
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csprojAssemblyReference.cache
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csproj.CoreCompileInputs.cache
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfoInputs.cache
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfo.cs
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.deps.json
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csprojAssemblyReference.cache
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csproj.CoreCompileInputs.cache
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfoInputs.cache
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfo.cs
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.deps.json
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csproj.CopyComplete
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.deps.json
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfo.cs
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.deps.json
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\Bilten.Model.pdb
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.AssemblyInfo.cs
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.Model\obj\Debug\netstandard2.0\Bilten.Model.pdb

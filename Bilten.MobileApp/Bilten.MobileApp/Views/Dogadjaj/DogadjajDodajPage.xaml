@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Bilten.MobileApp.ViewModels.Dogadjaj;assembly=Bilten.MobileApp"
+             xmlns:map="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             mc:Ignorable="d"
+             x:Class="Bilten.MobileApp.Views.Dogadjaj.DogadjajDodajPage">
+    <ContentPage.BindingContext>
+        <viewModels:DodajDogadjajViewModel>
+        </viewModels:DodajDogadjajViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+
+        <ScrollView>
+            <StackLayout Padding="10" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+                
+            <Label Text="Dodaj događaj" FontSize="30" FontAttributes="Bold"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <Label Text="Odaberi vrstu:" FontAttributes="Bold"></Label>
+            <Picker ItemsSource="{Binding VrsteList}" ItemDisplayBinding="{Binding Naziv}" SelectedItem="{Binding SelectedVrste}"></Picker>
+
+                <Label Text="Prijavitelj:" FontAttributes="Bold"></Label>
+            <Entry Text="{Binding Dogadjaj.Prijavitelj}" />
+
+                <Label Text="Mjesto događaja" FontAttributes="Bold"></Label>
+            <Entry Text="{Binding Dogadjaj.MjestoDogadjaja}"/>
+
+                <Label Text="Datum događaja" FontAttributes="Bold"></Label>
+            <DatePicker Date="{Binding Dogadjaj.DatumDogadjaja}"></DatePicker>
+
+                <Label Text="Datum prijave" FontAttributes="Bold"></Label>
+            <DatePicker Date="{Binding Dogadjaj.DatumPrijave}"></DatePicker>
+
+                <Label Text="Opis" FontAttributes="Bold"></Label>
+            <Entry Text="{Binding Dogadjaj.Opis}" Placeholder="Kratki opis događaja.."/>
+
+
+                <Grid>
+                    <map:Map x:Name="map" HeightRequest="300" VerticalOptions="Fill" MapClicked="map_MapClicked_1">
+                        <x:Arguments>
+                             <map:MapSpan>
+                                <x:Arguments>
+                                    <map:Position>
+                                        <x:Arguments>
+                                            <x:Double>43.340814</x:Double>
+                                            <x:Double>17.808932</x:Double>
+                                        </x:Arguments>
+                                    </map:Position>
+                                    <x:Double>0.1</x:Double>
+                                    <x:Double>0.1</x:Double>
+                                </x:Arguments>
+                            </map:MapSpan>
+                        </x:Arguments>
+                    </map:Map>
+                </Grid>
+
+
+            <Button Margin="15" Text="Snimi" WidthRequest="50" HeightRequest="30" Clicked="Button_Clicked" BackgroundColor="LimeGreen" TextColor="White"></Button>
+
+        </StackLayout>
+
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

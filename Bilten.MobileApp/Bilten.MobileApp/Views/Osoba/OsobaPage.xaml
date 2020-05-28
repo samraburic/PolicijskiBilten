@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Bilten.MobileApp.ViewModels.Osoba"
+             mc:Ignorable="d"
+             x:Class="Bilten.MobileApp.Views.Osoba.OsobaPage">
+    <ContentPage.BindingContext>
+        <viewModels:OsobaViewModel></viewModels:OsobaViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Registar osoba" FontSize="20" FontAttributes="Bold" 
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            
+            <!--<Entry Placeholder="Pretraga osoba"
+                   Text="{Binding Pretraga}"></Entry>-->
+            
+            <ListView ItemsSource="{Binding OsobaList}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="15">
+                                <Label FontAttributes="Bold"  Text="Ime:"></Label>
+                                <Label Text="{Binding Ime}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Label FontAttributes="Bold"  Text="Prezime:"></Label>
+                                <Label Text="{Binding Prezime}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+
+                                <Label FontAttributes="Bold"  Text="JMBG:"></Label>
+                                <Label Text="{Binding Jmbg}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                                <Label FontAttributes="Bold"  Text="Broj lične karte:"></Label>
+                                <Label Text="{Binding BrLicneKarte}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+
+                                <Label FontAttributes="Bold"  Text="Datum rođenja:"></Label>
+                                <Label Text="{Binding DatumRodjenja}" 
+                                       LineBreakMode="NoWrap" 
+                                       FontSize="14" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

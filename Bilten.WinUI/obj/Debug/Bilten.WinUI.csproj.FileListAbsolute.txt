@@ -1,0 +1,1182 @@
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe.config
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.pdb
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Bilten.Model.dll
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Flurl.dll
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Bilten.Model.pdb
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Flurl.xml
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorije.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.Properties.Resources.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.GenerateResource.cache
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CopyComplete
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.pdb
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrste.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmIndex.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjaj.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjaj.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.NovaForma.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjere.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajMjeru.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.Form1.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjeraDetalji.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajKategoriju.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorijeDetalji.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVrstu.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrsteDetalji.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobe.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOsobu.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobaDetalji.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozila.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVozilo.resources
+C:\Users\Benjamin\source\repos\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaDetalji.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe.config
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.pdb
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\netstandard.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.AppContext.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Collections.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Console.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Data.Common.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Globalization.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Linq.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.Http.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.Security.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Reflection.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Threading.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Flurl.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Flurl.xml
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csprojAssemblyReference.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe.config
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.Form1.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjaj.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajKategoriju.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajMjeru.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOsobu.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVozilo.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVrstu.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjaj.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorije.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmIndex.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorijeDetalji.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjeraDetalji.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjere.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobaDetalji.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobe.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozila.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaDetalji.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrsteDetalji.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.NovaForma.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.Properties.Resources.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrste.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.GenerateResource.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CopyComplete
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.pdb
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinica.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOrganizacionuJedinicu.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinicaDetalji.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinica.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinicaDetalji.resources
+C:\Users\Samra\Desktop\rs2 bilten projekat\Bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajPodorganizacionuJedinicu.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe.config
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.pdb
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\netstandard.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.AppContext.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Collections.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Console.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Data.Common.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Globalization.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Linq.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Http.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Security.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Reflection.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Bilten.Model.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Flurl.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Bilten.Model.pdb
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Flurl.xml
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe.config
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.Form1.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjaj.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajKategoriju.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajMjeru.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOrganizacionuJedinicu.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOsobu.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajPodorganizacionuJedinicu.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVozilo.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVrstu.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjaj.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorije.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmIndex.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorijeDetalji.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjeraDetalji.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjere.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinica.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinicaDetalji.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobaDetalji.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobe.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinica.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinicaDetalji.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozila.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaDetalji.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrsteDetalji.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.NovaForma.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.Properties.Resources.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrste.resources
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.GenerateResource.cache
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CopyComplete
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.pdb
+C:\Users\Benjamin\source\repos\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDodajMjere.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe.config
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Bilten.WinUI.pdb
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\netstandard.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.AppContext.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Collections.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Console.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Data.Common.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Globalization.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Linq.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Http.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Security.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Reflection.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Flurl.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Flurl.xml
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csprojAssemblyReference.cache
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe.config
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.Form1.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjaj.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajKategoriju.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajMjeru.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOrganizacionuJedinicu.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOsobu.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajPodorganizacionuJedinicu.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVozilo.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVrstu.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjaj.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDodajMjere.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorije.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmIndex.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorijeDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjeraDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjere.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinica.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinicaDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobaDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobe.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinica.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinicaDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozila.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrsteDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.NovaForma.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.Properties.Resources.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrste.resources
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.GenerateResource.cache
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CopyComplete
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe
+C:\Users\Samra\Desktop\rs2_bilten\Bilten.WinUI\obj\Debug\Bilten.WinUI.pdb
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe.config
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.pdb
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\netstandard.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.AppContext.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Console.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.Common.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Http.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Security.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.Model.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.Model.pdb
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.xml
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csprojAssemblyReference.cache
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe.config
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Form1.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjaj.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajKategoriju.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajMjeru.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOrganizacionuJedinicu.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOsobu.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajPodorganizacionuJedinicu.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVozilo.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVrstu.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjaj.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajiDetaljiSaobracaj.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDodajMjere.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorije.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmIndex.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorijeDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjeraDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjere.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinica.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinicaDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobaDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobe.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinica.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinicaDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozila.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrsteDetalji.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.NovaForma.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Properties.Resources.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrste.resources
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.GenerateResource.cache
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CopyComplete
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.pdb
+C:\Users\Samra\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaSearch.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe.config
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.pdb
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\netstandard.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.AppContext.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Console.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.Common.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Http.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Security.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.Model.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\GMap.NET.Core.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\itextsharp.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.Model.pdb
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\itextsharp.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csprojAssemblyReference.cache
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe.config
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.DogadjajiCustomControl.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.CustomControl.HomeControl.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.CustomControl.MjereCustomControl.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.CustomControl.VrsteCustomControl.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Form1.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaKontrolor.frmKontrolorIndex.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaKontrolor.frmSviDogadjaji.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaKontrolor.frmZvanicniBilten.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaOperater.frmOperaterIndex.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaPolicajac.frmPolicajacIndex.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjaj.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjajVideo.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajKategoriju.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajMjeru.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOrganizacionuJedinicu.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOsobu.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajPodorganizacionuJedinicu.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajSlikeDogadjaj.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVozilo.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVrstu.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjaj.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDetalji.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDetaljiKriminal.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajiDetaljiSaobracaj.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDodajMjere.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajVideo.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmGoogleMapaDogadjaja.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorije.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmIndex.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorijeDetalji.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjeraDetalji.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjere.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinica.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinicaDetalji.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobaDetalji.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobe.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobeSearch.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinica.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinicaDetalji.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVideoStream.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozila.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaDetalji.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaSearch.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrsteDetalji.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Korisnici.frmDodajKorisnika.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Login.frmLogin.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Login.MainForma.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.NovaForma.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.PregledDogađaja.frmDogadjajiKriminal.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.PregledDogađaja.frmDogadjajiNJRIM.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.PregledDogađaja.frmDogadjajiSaobracaj.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Properties.Resources.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrste.resources
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.GenerateResource.cache
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CopyComplete
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe
+C:\Users\Benjamin\Desktop\RS2_repo\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.pdb
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe.config
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.pdb
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\netstandard.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.AppContext.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Console.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.Common.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Http.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Security.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.Model.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\GMap.NET.Core.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.Model.pdb
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe.config
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.DogadjajiCustomControl.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.CustomControl.HomeControl.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.CustomControl.MjereCustomControl.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.CustomControl.VrsteCustomControl.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Form1.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaKontrolor.frmKontrolorIndex.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaKontrolor.frmSviDogadjaji.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaKontrolor.frmZvanicniBilten.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaOperater.frmOperaterIndex.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaPolicajac.frmPolicajacIndex.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjaj.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjajVideo.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajKategoriju.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajMjeru.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOrganizacionuJedinicu.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOsobu.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajPodorganizacionuJedinicu.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajSlikeDogadjaj.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVozilo.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVrstu.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjaj.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDetalji.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDetaljiKriminal.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajiDetaljiSaobracaj.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDodajMjere.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajVideo.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmGoogleMapaDogadjaja.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorije.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmIndex.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorijeDetalji.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjeraDetalji.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjere.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinica.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinicaDetalji.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobaDetalji.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobe.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobeSearch.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinica.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinicaDetalji.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVideoStream.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozila.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaDetalji.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaSearch.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrsteDetalji.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Korisnici.frmDodajKorisnika.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Login.frmLogin.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Login.MainForma.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.NovaForma.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.PregledDogađaja.frmDogadjajiKriminal.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.PregledDogađaja.frmDogadjajiNJRIM.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.PregledDogađaja.frmDogadjajiSaobracaj.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrste.resources
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe
+C:\Users\Admin\Desktop\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.pdb
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe.config
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.exe
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.WinUI.pdb
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\netstandard.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.AppContext.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Console.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.Common.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Http.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Security.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.Model.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\GMap.NET.Core.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Bilten.Model.pdb
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe.config
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.DogadjajiCustomControl.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.CustomControl.HomeControl.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.CustomControl.MjereCustomControl.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.CustomControl.VrsteCustomControl.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Form1.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaKontrolor.frmKontrolorIndex.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaKontrolor.frmSviDogadjaji.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaKontrolor.frmZvanicniBilten.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaOperater.frmOperaterIndex.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.FormaPolicajac.frmPolicajacIndex.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjaj.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajDogadjajVideo.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajKategoriju.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajMjeru.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOrganizacionuJedinicu.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajOsobu.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajPodorganizacionuJedinicu.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajSlikeDogadjaj.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVozilo.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDodajVrstu.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjaj.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDetalji.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDetaljiKriminal.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajiDetaljiSaobracaj.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajDodajMjere.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmDogadjajVideo.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmGoogleMapaDogadjaja.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorije.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmIndex.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmKategorijeDetalji.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjeraDetalji.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmMjere.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinica.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOrganizacionaJedinicaDetalji.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobaDetalji.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobe.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmOsobeSearch.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinica.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmPodorganizacionaJedinicaDetalji.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVideoStream.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozila.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaDetalji.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVozilaSearch.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrsteDetalji.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Korisnici.frmDodajKorisnika.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Login.frmLogin.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Login.MainForma.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.NovaForma.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.PregledDogađaja.frmDogadjajiKriminal.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.PregledDogađaja.frmDogadjajiNJRIM.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.PregledDogađaja.frmDogadjajiSaobracaj.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmVrste.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.exe
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.pdb
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Emgu.CV.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Emgu.Util.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Emgu.CV.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Emgu.Util.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\obj\Debug\Bilten.WinUI.frmFaceDetectionRecognition.resources
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Twilio.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\Twilio.xml
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\RestSharp.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\TextmagicRest.dll
+C:\Users\Admin\Desktop\proba\rs2_bilten_\Bilten.WinUI\bin\Debug\RestSharp.xml

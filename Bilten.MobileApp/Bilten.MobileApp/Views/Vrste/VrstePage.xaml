@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Bilten.MobileApp.ViewModels.Vrste"
+             mc:Ignorable="d"
+             x:Class="Bilten.MobileApp.Views.Vrste.VrstePage">
+    <ContentPage.BindingContext>
+        <viewModels:VrsteViewModel></viewModels:VrsteViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Picker ItemsSource="{Binding KategorijeList}" ItemDisplayBinding="{Binding Naziv}" SelectedItem="{Binding SelectedKategorije}"></Picker>
+           
+            <Label Margin="5" Padding="10" FontAttributes="Bold" Text="Vrste događaja"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <ListView ItemsSource="{Binding VrsteList}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="15">
+                                <Label Text="{Binding Naziv}" 
+                                       LineBreakMode="WordWrap" 
+                                       Style="{DynamicResource ListItemTextStyle}" 
+                                       FontSize="12" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+           
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Bilten.MobileApp.ViewModels"
+             mc:Ignorable="d"
+             x:Class="Bilten.MobileApp.Views.LoginPage"
+             BackgroundImageSource="blue-gradient.jpg">
+    <ContentPage.BindingContext>
+        <viewModels:LoginViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content >
+        <StackLayout Padding="10" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+            <Image WidthRequest="300" HeightRequest="150" Source="muppolicijalogo.png"></Image>
+            <Label Padding="0,0,0,30" Text="Policijski bilten" HorizontalTextAlignment="Center" TextColor="White" FontAttributes="Bold" FontSize="28" ></Label>
+
+            <Entry Placeholder="Korisničko ime"  Text="{Binding Username}" WidthRequest="350" 
+            HorizontalOptions="Center"></Entry>
+
+            <Entry Placeholder="Password" IsPassword="True" Text="{Binding Password}" Margin="0,0,0,40" WidthRequest="350" 
+            HorizontalOptions="Center"></Entry>
+
+            <Button Command="{Binding LoginCommand}" Text="Prijava" WidthRequest="150" HeightRequest="50" 
+            HorizontalOptions="Center" TextColor="White" BackgroundColor="LimeGreen"></Button>
+            
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

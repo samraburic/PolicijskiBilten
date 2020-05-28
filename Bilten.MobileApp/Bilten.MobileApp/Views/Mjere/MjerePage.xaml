@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Bilten.MobileApp.ViewModels.Mjere"
+             mc:Ignorable="d"
+             x:Class="Bilten.MobileApp.Views.Mjere.MjerePage">
+    <ContentPage.BindingContext>
+        <viewModels:MjereViewModel></viewModels:MjereViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        
+        <StackLayout>
+            <!--<Picker ItemsSource="{Binding KategorijeList}" ItemDisplayBinding="{Binding Naziv}" SelectedItem="{Binding SelectedKategorije}"></Picker>-->
+
+
+            <Image WidthRequest="100" HeightRequest="50" Source="lisice.png"></Image>
+            <Label Text="Poduzmi mjere na događaju" FontSize="Medium"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   FontAttributes="Bold"/>
+
+            <Button Clicked="Button_Clicked" Text="back" WidthRequest="50" 
+            HorizontalOptions="Start" BackgroundColor="SteelBlue" TextColor="White"></Button>
+            <ListView ItemsSource="{Binding MjereList}"  ItemSelected="ListView_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="15">
+                                <Label Text="{Binding Opis}" 
+                                       LineBreakMode="WordWrap" 
+                                       Style="{DynamicResource ListItemTextStyle}" 
+                                       FontSize="12" />
+                                <CheckBox CheckedChanged="CheckBox_CheckedChanged" IsChecked="{Binding IsSelected, Mode=TwoWay}" />
+
+                                <Label Text="_____________________________________________________________"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
